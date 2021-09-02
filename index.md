@@ -6,7 +6,7 @@ L'essentiel de mon activité d'enseignement est disponible ci-dessous.
 
 Seconde GT :
 
-[Ch 1 : Corps purs et mélanges](Ch1_CPM.pdf)
+[Ch 1 : Corps purs et mélanges](Ch1_CPM.pdf.pdf)
 
 Terminale STL :
 
@@ -14,4 +14,4 @@ Terminale STL :
 
 Sciences Numériques et Technologiques :
 
-[Ch 1 : Données structurées](Ch1_donnees.pdf)
+[Ch 1 : Données structurées](Ch1_donnees.pdf.pdf)
