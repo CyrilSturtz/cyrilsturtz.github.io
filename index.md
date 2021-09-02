@@ -10,7 +10,7 @@ Seconde GT :
 
 Terminale STL :
 
-[Ch 1 : l'energie et ses enjeux](enjeu_energie.pdf)
+[Ch 1 : l'energie et ses enjeux](enjeu_energie.pdf.pdf)
 
 Sciences Numériques et Technologiques :
 
