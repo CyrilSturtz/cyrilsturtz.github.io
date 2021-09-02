@@ -14,4 +14,4 @@ Terminale STL :
 
 Sciences Numériques et Technologiques :
 
-[Ch 1 : Données structurées](Ch1_donnees)
+[Ch 1 : Données structurées](Ch1_donnees.pdf)
