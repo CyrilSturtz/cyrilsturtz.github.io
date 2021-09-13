@@ -8,7 +8,7 @@ L'essentiel de mon activité d'enseignement est disponible ci-dessous.
 
 **Seconde GT :**
 
-Chapitre 1 : Corps purs et mélanges :
+Chapitre 1 : Corps purs et mélanges
 
 [Ch 1 : Cours](Ch1_CPM.pdf.pdf)
 
@@ -28,7 +28,7 @@ Ch 2 : Bilan
 
 **Terminale STL :**
 
-Chapitre 1. L'énergie et ses enjeux :
+Chapitre 1. L'énergie et ses enjeux
 
 [Ch 1 : Cours](enjeu_energie.pdf.pdf)
 
