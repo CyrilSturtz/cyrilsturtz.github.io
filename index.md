@@ -32,7 +32,7 @@ Chapitre 1. L'énergie et ses enjeux
 
 [Ch 1 : Cours](enjeu_energie.pdf.pdf)
 
-[Ch 1 : Exercice](enjeu_energieAP.pdf.pdf)
+[Ch 1 : Exercices](enjeu_energieAP.pdf.pdf)
 
 [Ch 1 : Bilan](BILAN_enjeu_energie.pdf.pdf)
 
