@@ -8,20 +8,41 @@ L'essentiel de mon activité d'enseignement est disponible ci-dessous.
 
 **Seconde GT :**
 
-[Ch 1 : Corps purs et mélanges](Ch1_CPM.pdf.pdf)
+Chapitre 1 : Corps purs et mélanges :
+
+[Ch 1 : Cours](Ch1_CPM.pdf.pdf)
+
+[Ch 1 : Exercices](Ch1_CPM_exo.pdf)
+
+[Ch 1 : Bilan](Ch1_CPM_Bilan.pdf)
+
+Chapitre 2 : L'atome
+
+Ch 2 : Cours
+
+Ch 2 : Exercice
+
+Ch 2 : Bilan
 
 ---
 
 **Terminale STL :**
 
-L'énergie et ses enjeux :
+Chapitre 1. L'énergie et ses enjeux :
 
-[Ch 1 : l'energie et ses enjeux](enjeu_energie.pdf.pdf)
+[Ch 1 : Cours](enjeu_energie.pdf.pdf)
 
 [Ch 1 : Exercice](enjeu_energieAP.pdf.pdf)
 
 [Ch 1 : Bilan](BILAN_enjeu_energie.pdf.pdf)
 
+Chapitre 2. Stéréochimie
+
+Ch 2 : Cours
+
+Ch 2 : Exercices
+
+Ch 2 : Bilan
 
 ---
 **Sciences Numériques et Technologiques :**
