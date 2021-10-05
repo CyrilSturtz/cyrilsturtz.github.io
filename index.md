@@ -44,6 +44,10 @@ Ch 2 : Exercices
 
 Ch 2 : Bilan
 
+Chapitre 3. Énergie mécanique
+
+[Chronophotographie](chrono_golf.BMP)
+
 ---
 **Sciences Numériques et Technologiques :**
 
